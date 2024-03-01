@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Exploratory Data Analysis: Most Streamed Spotify Songs vs. 66th Annual Grammy Awards 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/Spotify_2023.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
