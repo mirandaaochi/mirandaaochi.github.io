@@ -22,7 +22,9 @@
 
 #### Stress, Creative Outlet Use, and Creativity
 
-<div style="text-align: justify"> This was my final project for Psychology 101: Research and Data Analysis in Psychology. In this project, I explored the relationships between stress, dance as a creative outlet, and creativity using a series of Linear Regression models in RStudio to test hypotheses. </div>
+<div style="text-align: justify"> This was a final research paper for Psychology 101: Research and Data Analysis in Psychology. In this project, I explored the relationships between stress, dance as a creative outlet, and creativity using a series of Linear Regression models in RStudio to test hypotheses. </div>
+
+<br>
 
 [View Final Paper](https://docs.google.com/document/d/16Sm8aXbyHP-SPQU4yC_9UNrYuQ0V3VW61zNO9pzRumI/edit?usp=sharing)
 
