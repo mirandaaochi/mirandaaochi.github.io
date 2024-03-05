@@ -32,7 +32,7 @@
 
 ### Quantium's Data Analytics Simulation on Forage
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](/Quantium Portfolio)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mirandaaochi/mirandaaochi.github.io/tree/df47241c42316fcbc8e01241893e0f66b1ae59ce/Quantium%20Portfolio)
 
 
 <div style="text-align: justify"> In the simulation I:
