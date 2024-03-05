@@ -28,6 +28,23 @@
 
 [View Final Paper](https://docs.google.com/document/d/16Sm8aXbyHP-SPQU4yC_9UNrYuQ0V3VW61zNO9pzRumI/edit?usp=sharing)
 
+---
+
+### Quantium's Data Analytics Simulation on Forage
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](/Quantium Portfolio)
+
+
+<div style="text-align: justify"> In the simulation I:
+  <ul>
+  <li>Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.</li>
+  <li>Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.</li>
+  <li>Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+</li>
+    <li>Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+</li>
+  </ul>
+ </div>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
